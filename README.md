@@ -2,32 +2,37 @@
 
 install with npm or yarn
 ```
-cd client/ yarn or npm install
-cd compute1/ yarn or npm install
-cd compute2/ yarn or npm install
+terminal$ cd client/
+yarn or npm install
+
+terminal$ cd compute1/
+yarn or npm install
+
+terminal$ cd compute2/
+yarn or npm install
 ```
 
 # Usage
 
 ### First
-cd compute1/
 ```
+terminal$ cd compute1/
 terminal$ node server.js
 ```
 
-cd compute2/
 ```
+terminal$ cd compute2/
 terminal$ node server.js
 ```
 
 ### Second
-cd loadbalancer/
 ```
+terminal$ cd loadbalancer/
 terminal$ node index.js
 ```
 
 ### Third
-cd client/
 ```
+terminal$ cd client/
 terminal$ node client.js
 ```
