@@ -2,7 +2,7 @@
 
 install with npm or yarn
 ```
-cd client yarn or npm install
+cd client/ yarn or npm install
 cd compute1/ yarn or npm install
 cd compute2/ yarn or npm install
 ```
